@@ -49,3 +49,5 @@
 ### Other sources:
 
 - https://github.com/lipis/flag-icons
+- https://medium.com/beingcoders/simple-steps-to-add-country-flags-to-your-angular-react-or-vue-applications-b415da1536ab
+  - > The easiest & bootstrap approach to show country flags by using ISO country codes within 5 minutes. 
