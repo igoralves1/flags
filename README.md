@@ -46,3 +46,6 @@
 
 
 ```
+### Other sources:
+
+- https://github.com/lipis/flag-icons
